@@ -1,0 +1,25 @@
+{
+ "v": 1,
+ "settings": {
+  "capital": 10000000,
+  "target": 1.2,
+  "up": 10,
+  "dn": 10,
+  "disc": 0.6,
+  "tax": 0.1
+ },
+ "ledger": [
+  {
+   "date": "2026-06-01",
+   "fee": null,
+   "id": "rmwkdlxystmk2",
+   "note": "",
+   "price": 37.56,
+   "shares": 13000,
+   "tax": null,
+   "ts": 1794900827188,
+   "type": "buy"
+  }
+ ],
+ "updated": 1795018754012
+}
