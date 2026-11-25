@@ -22,7 +22,19 @@
     },
     "show": true
    }
+  ],
+  "envelope-us": [
+   {
+    "id": "mwvvv4g8qja",
+    "name": "Claude推_看SP500(20261125)",
+    "ps": {
+     "n": 165,
+     "x": 4,
+     "y": 3.5
+    },
+    "show": true
+   }
   ]
  },
- "updated": 1795586146116
+ "updated": 1795596616520
 }
