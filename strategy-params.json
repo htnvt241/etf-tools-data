@@ -11,7 +11,18 @@
     },
     "show": true
    }
+  ],
+  "kalman": [
+   {
+    "id": "mwvmxj28ssq",
+    "name": "良",
+    "ps": {
+     "s": 35,
+     "l": 175
+    },
+    "show": true
+   }
   ]
  },
- "updated": 1795533056825
+ "updated": 1795581612224
 }
