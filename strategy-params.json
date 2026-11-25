@@ -12,7 +12,17 @@
     "show": true
    }
   ],
-  "kalman": []
+  "kalman": [
+   {
+    "id": "mwvp9dgdt1b",
+    "name": "claude推_看加權(20261125)",
+    "ps": {
+     "s": 35,
+     "l": 175
+    },
+    "show": true
+   }
+  ]
  },
- "updated": 1795585501605
+ "updated": 1795585524061
 }
