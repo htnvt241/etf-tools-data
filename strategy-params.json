@@ -39,7 +39,7 @@
      "s": 50,
      "l": 150
     },
-    "show": true
+    "show": false
    }
   ],
   "envelope-us": [
@@ -86,5 +86,6 @@
    }
   ]
  },
- "updated": 1795750426432
+ "defaults": {},
+ "updated": 1795756653810
 }
