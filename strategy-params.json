@@ -73,7 +73,18 @@
     },
     "show": true
    }
+  ],
+  "kd": [
+   {
+    "id": "mwyffsxsagu",
+    "name": "claude推_過80不槓桿(20261125)",
+    "ps": {
+     "n": 9,
+     "t": 80
+    },
+    "show": true
+   }
   ]
  },
- "updated": 1795740962057
+ "updated": 1795750426432
 }
